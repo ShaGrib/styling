@@ -1,0 +1,42 @@
+#box1{
+    background-color: black;
+    padding: 5px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+#whitelet{
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+}
+
+#bluelet{
+    font-family: sans-serif;
+    color:aqua;
+    font-size: 50px;
+}
+
+h2{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h3{
+    background-color:lightskyblue;
+    text-align: right;
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-right: 25px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
